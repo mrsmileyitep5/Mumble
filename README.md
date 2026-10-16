@@ -216,4 +216,4 @@ Mumble is available as a full free version, providing all features and updates w
 Download Mumble today and elevate your gaming experience with top-notch voice communication!
 
 ---
-**Last updated:** 2026-10-16 10:26:39 UTC
+**Last updated:** 2026-10-16 15:05:20 UTC
